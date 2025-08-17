@@ -4,4 +4,4 @@ Noted-On-Loop--->Simply Stays Open Taking Many Notes Till User Types "q" Then Hi
 
 Noted-->Simply Takes Only One Note Then Closes By It Self.
 
-ALL NOTES SAVED IN SAME DIRECTORY AS SCRIPT IN A FILE CALLED NOTED.TXT!
+ALL NOTES SAVED IN SAME DIRECTORY AS SCRIPT IN A FILE CALLED "Noted.txt"!
